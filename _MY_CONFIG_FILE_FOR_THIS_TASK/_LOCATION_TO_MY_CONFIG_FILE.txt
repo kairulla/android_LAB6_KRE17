@@ -1,0 +1,3 @@
+/data/data/kz.lab6_kre17/shared_prefs/Config.xml        <----API 19-> Config.xml
+
+/data/user/0/kz.lab6_kre17/shared_prefs/Config.xml      <----API 33-> Config1.xml  (переименовал, потому что одинаковые имена)

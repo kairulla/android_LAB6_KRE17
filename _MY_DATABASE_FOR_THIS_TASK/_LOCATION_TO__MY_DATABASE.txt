@@ -1,0 +1,5 @@
+оно было без расширения, я дописал сам ".db"
+
+/data/data/kz.lab6_kre17/databases/religiya        <----API 19-> religiya.db                                              
+                                                                                                                               
+/data/user/0/kz.lab6_kre17/databases/religiya      <----API 33-> religiya1.db  (переименовал, потому что одинаковые имена)
